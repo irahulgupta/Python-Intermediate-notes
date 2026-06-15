@@ -1,0 +1,8 @@
+2026-06-11 13:51:02,410 - INFO - Addition performed: 10 + 5 = 15
+2026-06-11 13:51:02,411 - INFO - Subtraction performed: 10 - 5 = 5
+2026-06-11 13:51:02,413 - INFO - Multiplication performed: 10 * 5 = 50
+2026-06-11 13:51:02,414 - INFO - Division performed: 10 / 5 = 2.0
+2026-06-11 13:51:45,920 - INFO - Addition performed: 10 + 5 = 15
+2026-06-11 13:51:45,920 - INFO - Subtraction performed: 10 - 5 = 5
+2026-06-11 13:51:45,921 - INFO - Multiplication performed: 10 * 5 = 50
+2026-06-11 13:51:45,921 - ERROR - Attempted division by zero
