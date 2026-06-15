@@ -1,4 +1,4 @@
-# 🐍 Python Intermediate Notes
+# Python Intermediate Notes
 
 Welcome to this repository!
 
@@ -55,7 +55,7 @@ git clone https://github.com/irahulgupta/Python-Intermediate-notes.git
 
 3. Read the notes and run the examples to understand the concepts.
 
-## 📖 Learning Approach
+## Learning Approach
 
 I believe the best way to learn Python is:
 
